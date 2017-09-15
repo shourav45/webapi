@@ -1,0 +1,5 @@
+F:\proj\Finalxm\LogicLayer\bin\Debug\LogicLayer.dll
+F:\proj\Finalxm\LogicLayer\bin\Debug\LogicLayer.pdb
+F:\proj\Finalxm\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+F:\proj\Finalxm\LogicLayer\obj\Debug\LogicLayer.dll
+F:\proj\Finalxm\LogicLayer\obj\Debug\LogicLayer.pdb
